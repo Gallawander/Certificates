@@ -20,8 +20,8 @@
   * [Learn2Code - R Data Science](https://github.com/Gallawander/Certificates/blob/main/Learn2Code/R_data_science.pdf)
   * [Udemy - Data Science](https://github.com/Gallawander/Certificates/tree/main/Udemy/Data%20Science)
  * Python Certificates
-  * [Data Camp - Data Science with Python](https://github.com/Gallawander/Certificates/tree/main/Data%20Camp/Certificates%20-%20Python)
-  * [Learn2Code - Python Programming Certificate](https://github.com/Gallawander/Certificates/blob/main/Learn2Code/Python_programming.pdf)
+   * [Data Camp - Data Science with Python](https://github.com/Gallawander/Certificates/tree/main/Data%20Camp/Certificates%20-%20Python)
+   * [Learn2Code - Python Programming Certificate](https://github.com/Gallawander/Certificates/blob/main/Learn2Code/Python_programming.pdf)
 * SQL Certificates
   * [Data Camp - Data Science with SQL](https://github.com/Gallawander/Certificates/tree/main/Data%20Camp/Certificates%20-%20SQL)
 * Web Development Certificates
